@@ -1,1 +1,1 @@
-Java basic programs
+Java basic programs are available in this folder
