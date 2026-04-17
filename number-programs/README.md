@@ -1,1 +1,1 @@
-Here i practice my NumberPrograms in java language
+Here i practice my NumberPrograms in java programming language
